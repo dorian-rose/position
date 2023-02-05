@@ -1,0 +1,15 @@
+div {
+  display: inline-flex;
+  margin-bottom: 5px;
+  background-color: #eee;
+}
+
+p {
+  width: 100px;
+  border: black 1px solid;
+  margin: 2px;
+}
+h3 {
+  position: relative;
+  top: 30px;
+}
